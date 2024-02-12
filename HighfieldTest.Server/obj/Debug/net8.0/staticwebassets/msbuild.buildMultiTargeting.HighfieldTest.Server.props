@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HighfieldTest.Server.props" />
+</Project>
